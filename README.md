@@ -1,6 +1,7 @@
 # LSGM
-**Paper**: Lens-less imaging via score-based generative model https://www.opticsjournal.net/M/Articles/OJf1842c2819a4fa2e/Abstract
-
+**Paper**: Lens-less imaging via score-based generative model      
+https://www.opticsjournal.net/M/Articles/OJf1842c2819a4fa2e/Abstract    
+    
 **Authors**: Chunhua Wu, Hong Peng, Qiegen Liu, Wenbo Wan, Yuhao Wang    
 
 Date : October-31-2022  
