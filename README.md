@@ -70,6 +70,6 @@ The implementation is based on this repository: https://github.com/yang-song/sco
   * Imaging through scattering media via generative diffusion model  
 [<font size=5>**[Paper]**</font>](https://pubs.aip.org/aip/apl/article/124/5/051101/3176612/Imaging-through-scattering-media-via-generative)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/ISDM)
 
-  * Diffusion Models for Medical Imaging
+  * Diffusion Models for Medical Imaging     
 [<font size=5>**[Paper]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/Diffusion-Models-for-Medical-Imaging)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)  
 
