@@ -43,6 +43,22 @@ python main.py --config=configs/ve/church_ncsnpp_continuous.py  --workdir=exp_tr
 python score_sde_fza_demo_fujian.py
 
 
+## Flow chart of lens-less imaging
+<div align="center"><img src="https://github.com/yqx7150/PAT-MDAE/blob/main/Figs/Fig1.jpg"> </div>
+
+       
+    
+## Training and reconstruction flow chart of LSGM algorithm
+<div align="center"><img src="https://github.com/yqx7150/PAT-MDAE/blob/main/Figs/Fig6.jpg"> </div>
+
+   
+    
+## Results on experiment data.
+<div align="center"><img src="https://github.com/yqx7150/PAT-MDAE/blob/main/Figs/Fig7.jpg"> </div>
+
+Visual comparison of reconstruction images on the LSUN-bedroom dataset.
+
+
 ## Acknowledgement
 The implementation is based on this repository: https://github.com/yang-song/score_sde_pytorch.
 
