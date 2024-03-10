@@ -53,7 +53,7 @@ python score_sde_fza_demo_fujian.py
 
    
     
-## Results on experiment data.
+## Results on experiment data
 <div align="center"><img src="https://github.com/yqx7150/LSGM/blob/main/fig5.png"> </div>
 
 Visual comparison of reconstruction images on the LSUN-bedroom dataset.
